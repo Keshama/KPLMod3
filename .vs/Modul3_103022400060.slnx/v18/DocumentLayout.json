@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BF2ECBF2-9209-4B45-B3FC-093CAE5E72A9}|Modul3_103022400060\\Modul3_103022400060.csproj|c:\\users\\keisya\\source\\repos\\modul3_103022400060\\modul3_103022400060\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BF2ECBF2-9209-4B45-B3FC-093CAE5E72A9}|Modul3_103022400060\\Modul3_103022400060.csproj|solutionrelative:modul3_103022400060\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2ECBF2-9209-4B45-B3FC-093CAE5E72A9}|Modul3_103022400060\\Modul3_103022400060.csproj|c:\\users\\keisya\\source\\repos\\modul3_103022400060\\modul3_103022400060\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2ECBF2-9209-4B45-B3FC-093CAE5E72A9}|Modul3_103022400060\\Modul3_103022400060.csproj|solutionrelative:modul3_103022400060\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Keisya\\source\\repos\\Modul3_103022400060\\Modul3_103022400060\\Form1.cs",
+              "RelativeDocumentMoniker": "Modul3_103022400060\\Form1.cs",
+              "ToolTip": "C:\\Users\\Keisya\\source\\repos\\Modul3_103022400060\\Modul3_103022400060\\Form1.cs",
+              "RelativeToolTip": "Modul3_103022400060\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T23:55:04.69Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -27,6 +44,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T23:47:15.486Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }
